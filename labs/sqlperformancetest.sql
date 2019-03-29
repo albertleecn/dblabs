@@ -1,5 +1,5 @@
 delete from section
-where s.year>=2018;
+where year>=2018;
 
 insert into section(course_id,sec_id,semester,year,building,room_number,time_slot_id)
 select course_id,sec_id,'Spring',2019,building,room_number,time_slot_id 
