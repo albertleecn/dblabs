@@ -10,3 +10,7 @@ open mysql client app:<br/>
 source DDL_createtbwithpredrop_al.sql<br/>
 ### The Fourth Step:
 do labs step by step<br/>
+## database labs
+### Lab 1:
+Basic SQL: Create & Drop Tables
+
