@@ -1,5 +1,5 @@
 # database coursewares
-## database labs
+## prepare for database labs
 ### The First Step:
 Create a new database or schema
 ### The Second Step:
