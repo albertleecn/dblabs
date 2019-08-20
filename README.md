@@ -12,5 +12,7 @@ source DDL_createtbwithpredrop_al.sql<br/>
 do labs step by step<br/>
 ## database labs
 ### Lab 1:
-Basic SQL: Create & Drop Tables
+Basic SQL 1: Create & Drop Tables
+### Lab 2:
+Basic SQL 2: Insert & Delete 
 
