@@ -19,7 +19,7 @@ Avi Silberschatz, Henry F. Korth, S. Sudarshan. **Database System Concepts 6th E
 Introduction
 
 ## database labs
-### Lab0: prepare for database labs
+### Lab1: prepare for database labs
 #### Operating System
 Mysql Community Server supports all kinds of Operating Systems, such as Windows10 , MacOS or Linux
 
