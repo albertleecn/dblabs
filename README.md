@@ -1,4 +1,7 @@
 # database coursewares
+## textbook
+Avi Silberschatz, Henry F. Korth, S. Sudarshan. **Database System Concepts 6th Edition**. McGraw-Hill, ISBN 0-07-352332-1
+![Database System Concepts 6th Edition](./docs/DatabaseSystemConcepts6Cover.png)
 ## prepare for database labs
 ### The First Step:
 Create a new database or schema
