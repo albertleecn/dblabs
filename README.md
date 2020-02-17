@@ -9,6 +9,7 @@
 坐地日行八万里，巡天遥看一千河。
 
 牛郎欲问瘟神事，一样悲欢逐逝波。
+
 ## textbook
 Avi Silberschatz, Henry F. Korth, S. Sudarshan. **Database System Concepts 6th Edition**. McGraw-Hill, ISBN 0-07-352332-1
 <img src="./docs/DatabaseSystemConcepts6Cover.png" width="100" alt="Database System Concepts 6th Edition"/>
@@ -16,7 +17,7 @@ Avi Silberschatz, Henry F. Korth, S. Sudarshan. **Database System Concepts 6th E
 ## coursewares
 ### Introduction
 
-Introduction
+[Introduction](./docs/lecture01DbSystemIntroR6.pdf)
 
 ## database labs
 ### Lab1: prepare for database labs
@@ -29,6 +30,8 @@ Mysql Community Server supports all kinds of Operating Systems, such as Windows1
 
 mysql-installer-community-8.0.19.0.msi
 MD5: 1a882015da7fb93f20c4717e63b6817c
+### programming language
+python3
 
 #### The First Step:
 Create a new database or schema
