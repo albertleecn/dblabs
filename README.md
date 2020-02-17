@@ -28,11 +28,16 @@ Mysql Community Server supports all kinds of Operating Systems, such as Windows1
 [MySQL 8.0.19](https://dev.mysql.com/downloads/mysql/)
 [Windows (x86, 32-bit), MSI Installer](https://dev.mysql.com/downloads/windows/installer/8.0.html)
 
-mysql-installer-community-8.0.19.0.msi
+(1) mysql-installer-community-8.0.19.0.msi
+
 MD5: 1a882015da7fb93f20c4717e63b6817c
+
+(2) MySQL Workbench
+
 ### programming language
 python3
 
+### import the data collection
 #### The First Step:
 Create a new database or schema
 #### The Second Step:
