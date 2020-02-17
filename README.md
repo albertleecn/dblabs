@@ -1,15 +1,19 @@
 # database system principle 2020
+## thinking at the beginning of the class
+毛泽东 七律·送瘟神·其一 1958.6
+
+绿水青山枉自多，华佗无奈小虫何！
+
+千村薜荔人遗矢，万户萧疏鬼唱歌。
+
+坐地日行八万里，巡天遥看一千河。
+
+牛郎欲问瘟神事，一样悲欢逐逝波。
 ## textbook
 Avi Silberschatz, Henry F. Korth, S. Sudarshan. **Database System Concepts 6th Edition**. McGraw-Hill, ISBN 0-07-352332-1
 <img src="./docs/DatabaseSystemConcepts6Cover.png" width="100" alt="Database System Concepts 6th Edition"/>
 
 ## coursewares
-### thinking at the beginning of the class
-毛泽东 七律·送瘟神·其一 1958.6
-绿水青山枉自多，华佗无奈小虫何！
-千村薜荔人遗矢，万户萧疏鬼唱歌。
-坐地日行八万里，巡天遥看一千河。
-牛郎欲问瘟神事，一样悲欢逐逝波。
 ### Introduction
 Introduction
 
