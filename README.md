@@ -2,17 +2,17 @@
 ## textbook
 Avi Silberschatz, Henry F. Korth, S. Sudarshan. **Database System Concepts 6th Edition**. McGraw-Hill, ISBN 0-07-352332-1
 <img src="./docs/DatabaseSystemConcepts6Cover.png" width="100" alt="Database System Concepts 6th Edition"/>
-![Database System Concepts 6th Edition](./docs/DatabaseSystemConcepts6Cover.png)
 
 ##coursewares
 ###Introduction
+Introduction
 
 ## database labs
 ### Lab0: prepare for database labs
 #### Operating System
 Windows10 or MacOS or Linux
 #### Install and Config MySQL Database
-![MySQL 8.0.19](https://dev.mysql.com/downloads/mysql/)
+[MySQL 8.0.19](https://dev.mysql.com/downloads/mysql/)
 
 #### The First Step:
 Create a new database or schema
