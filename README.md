@@ -1,4 +1,4 @@
-# database system principle 2020
+# database system principle
 ## thinking at the beginning of the class
 毛泽东 七律·送瘟神·其一 1958.6<br/>
 绿水青山枉自多，华佗无奈小虫何！<br/>
@@ -8,7 +8,7 @@
 
 ## textbook
 Avi Silberschatz, Henry F. Korth, S. Sudarshan. **Database System Concepts 6th Edition**. McGraw-Hill, ISBN 0-07-352332-1
-<img src="./docs/DatabaseSystemConcepts6Cover.png" width="100" alt="Database System Concepts 6th Edition"/>
+<img src="./docs/DatabaseSystemConcepts6Cover.jpg" width="100" alt="Database System Concepts 6th Edition"/>
 
 ## coursewares
 
