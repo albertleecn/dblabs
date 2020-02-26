@@ -1,7 +1,7 @@
 # database system principle 2020
 
 ## database labs
-### Lab1: prepare for database labs
+
 #### Operating System
 Mysql Community Server supports all kinds of Operating Systems, such as Windows10 , MacOS or Linux
 

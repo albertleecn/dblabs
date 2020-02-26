@@ -18,6 +18,8 @@ Avi Silberschatz, Henry F. Korth, S. Sudarshan. **Database System Concepts 6th E
 
 ## database labs
 
+[lab01 Prepare the basic environment](./labs/lab01DbSystemPrepareStudent.pdf)
+
 ### Lab1: prepare for database labs
 see [labs/README.md](./labs/README.md)<br/>
 
