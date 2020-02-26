@@ -18,6 +18,14 @@ MD5: 1a882015da7fb93f20c4717e63b6817c
 #### programming language
 python3
 
+#### the data collection to database
+
+in ../res/
+
+DDL_createtbwithpredrop_al.sql
+
+largeRelationsInsertFile.sql
+
 #### import the data collection to database
 
 ##### The First Step:
