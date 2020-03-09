@@ -1,6 +1,10 @@
-# database system principle 2020
+# database system principle
 
 ## database labs
+
+[lab02 create new db and import data](./lab02DbSystemStudent.pdf)
+
+[lab01 Prepare the basic environment](./lab01DbSystemPrepareStudent.pdf)
 
 #### Operating System
 Mysql Community Server supports all kinds of Operating Systems, such as Windows10 , MacOS or Linux
