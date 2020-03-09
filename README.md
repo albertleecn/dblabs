@@ -12,18 +12,19 @@ Avi Silberschatz, Henry F. Korth, S. Sudarshan. **Database System Concepts 6th E
 
 ## coursewares
 
-### Introduction
-
+### Lecture 3~4
 [Relational DB Model](./docs/lecture002DbSystemRDbModelR6.pdf)
 
+### Lecture 1~2
 [Introduction](./docs/lecture01DbSystemIntroR6.pdf)
 
 ## database labs
 
+see [labs/README.md](./labs/README.md)<br/>
+
+### Lab2: create new db and import data
 [lab02 create new db and import data](./labs/lab02DbSystemStudent.pdf)
 
-[lab01 Prepare the basic environment](./labs/lab01DbSystemPrepareStudent.pdf)
-
 ### Lab1: prepare for database labs
-see [labs/README.md](./labs/README.md)<br/>
+[lab01 Prepare the basic environment](./labs/lab01DbSystemPrepareStudent.pdf)
 
