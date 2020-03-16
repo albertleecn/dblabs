@@ -18,6 +18,9 @@
 
 see [labs/README.md](./labs/README.md)<br/>
 
+### Lab3: python and basic sql
+[lab03 python and basic sql ](./labs/lab03DbSystemStudent.pdf)
+
 ### Lab2: create new db and import data
 [lab02 create new db and import data](./labs/lab02DbSystemStudent.pdf)
 

@@ -1,9 +1,13 @@
 # database system principle
 
 ## database labs
+### Lab3: python and basic sql
+[lab03 python and basic sql ](./lab03DbSystemStudent.pdf)
 
+### Lab2: create new db and import data
 [lab02 create new db and import data](./lab02DbSystemStudent.pdf)
 
+### Lab1: prepare for database labs
 [lab01 Prepare the basic environment](./lab01DbSystemPrepareStudent.pdf)
 
 #### Operating System
