@@ -8,6 +8,9 @@
 
 ## coursewares
 
+### Lecture 5
+[SQL Query Language](./docs/lecture003DbSystemSQL1basicR6.pdf)
+
 ### Lecture 3~4
 [Relational DB Model](./docs/lecture002DbSystemRDbModelR6.pdf)
 
