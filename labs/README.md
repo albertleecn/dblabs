@@ -1,6 +1,9 @@
 # database system principle
 
 ## database labs
+### Lab5: python and advanced sql
+[lab05 python and advanced sql II ](./lab05DbSystemBasicSQL3_view_rankStudent.pdf)
+
 ### Lab4: python and advanced sql
 [lab04 python and advanced sql ](./lab04DbSystemBasicSQLStudent.pdf)
 

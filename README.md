@@ -8,7 +8,7 @@
 
 ## coursewares
 
-### Lecture 6
+### Lecture 6~7
 [SQL Query Language Intermediate](./docs/lecture004DbSystemSQL2intermediate.pdf)
 
 ### Lecture 5
@@ -23,6 +23,9 @@
 ## database labs
 
 see [labs/README.md](./labs/README.md)<br/>
+
+### Lab5: python and advanced sql II
+[lab04 python and advanced sql II ](./labs/lab05DbSystemBasicSQL3_view_rankStudent.pdf)
 
 ### Lab4: python and advanced sql
 [lab04 python and advanced sql ](./labs/lab04DbSystemBasicSQLStudent.pdf)
