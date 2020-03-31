@@ -7,6 +7,8 @@
 牛郎欲问瘟神事，一样悲欢逐逝波。<br/>
 
 ## coursewares
+### Lecture 8
+[SQL Query Language Advanced](./docs/lecture005DbSystemSQL3advanced.pdf)
 
 ### Lecture 6~7
 [SQL Query Language Intermediate](./docs/lecture004DbSystemSQL2intermediate.pdf)
