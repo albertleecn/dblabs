@@ -1,6 +1,9 @@
 # database system principle
 
 ## database labs
+### Lab6: SQL performance Test
+[lab06 SQL performance Test](./lab06DbSystemSQLperformanceTestStudent.pdf)
+
 ### Lab5: python and advanced sql
 [lab05 python and advanced sql II ](./lab05DbSystemBasicSQL3_view_rankStudent.pdf)
 

@@ -25,9 +25,12 @@
 ## database labs
 
 see [labs/README.md](./labs/README.md)<br/>
+### Lab6: SQL performance Test
+[lab06 SQL performance Test](./labs/lab06DbSystemSQLperformanceTestStudent.pdf)<br/>
+[db script](./res/sqlperformancetest.sql)
 
 ### Lab5: python and advanced sql II
-[lab04 python and advanced sql II ](./labs/lab05DbSystemBasicSQL3_view_rankStudent.pdf)
+[lab05 python and advanced sql II ](./labs/lab05DbSystemBasicSQL3_view_rankStudent.pdf)
 
 ### Lab4: python and advanced sql
 [lab04 python and advanced sql ](./labs/lab04DbSystemBasicSQLStudent.pdf)
