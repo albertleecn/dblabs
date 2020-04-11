@@ -23,6 +23,9 @@
 ## database labs
 
 see [labs/README.md](./labs/README.md)<br/>
+### Lab7: Stored Function in SQL
+[lab07 Stored Function in SQL](./labs/lab07DbSystemAdSQLFuncStudent.pdf)<br/>
+
 ### Lab6: SQL performance Test
 [lab06 SQL performance Test](./labs/lab06DbSystemSQLperformanceTestStudent.pdf)<br/>
 [db script](./res/sqlperformancetest.sql)

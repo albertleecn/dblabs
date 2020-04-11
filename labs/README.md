@@ -1,6 +1,9 @@
 # database system principle
 
 ## database labs
+### Lab7: Stored Function in SQL
+[lab07 Stored Function in SQL](./lab07DbSystemAdSQLFuncStudent.pdf)
+
 ### Lab6: SQL performance Test
 [lab06 SQL performance Test](./lab06DbSystemSQLperformanceTestStudent.pdf)
 
