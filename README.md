@@ -5,6 +5,10 @@
 坐地日行八万里，巡天遥看一千河。牛郎欲问瘟神事，一样悲欢逐逝波。<br/>
 
 ## coursewares
+
+### Lecture 9
+[Relational Algebra and Calculus](./docs/lecture006DbSystemRelationalAlgebraCalculus.pdf)
+
 ### Lecture 8
 [SQL Query Language Advanced](./docs/lecture005DbSystemSQL3advanced.pdf)
 
