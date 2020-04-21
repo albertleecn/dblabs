@@ -6,6 +6,9 @@
 
 ## coursewares
 
+### Lecture 10~11
+[E-R Model](./docs/lecture007DbSystemERModelR6.pdf)
+
 ### Lecture 9
 [Relational Algebra and Calculus](./docs/lecture006DbSystemRelationalAlgebraCalculus.pdf)
 
