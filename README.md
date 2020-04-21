@@ -30,6 +30,10 @@
 ## database labs
 
 see [labs/README.md](./labs/README.md)<br/>
+
+### Lab8: Stored Procedure in SQL
+[lab08 Stored Procedure in SQL](./labs/lab08bDbSystemAdSQLProcedureFigStudent.pdf)
+
 ### Lab7: Stored Function in SQL
 [lab07 Stored Function in SQL](./labs/lab07DbSystemAdSQLFuncStudent.pdf)<br/>
 

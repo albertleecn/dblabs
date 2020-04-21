@@ -1,6 +1,9 @@
 # database system principle
 
 ## database labs
+### Lab8: Stored Procedure in SQL
+[lab08 Stored Procedure in SQL](./lab08bDbSystemAdSQLProcedureFigStudent.pdf)
+
 ### Lab7: Stored Function in SQL
 [lab07 Stored Function in SQL](./lab07DbSystemAdSQLFuncStudent.pdf)
 
