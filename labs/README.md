@@ -1,6 +1,10 @@
 # database system principle
 
 ## database labs
+
+### Lab9: E/R Model
+[lab09 E/R Model](./lab09DbSystemERmodelStudent.pdf)
+
 ### Lab8: Stored Procedure in SQL
 [lab08 Stored Procedure in SQL](./lab08bDbSystemAdSQLProcedureFigStudent.pdf)
 

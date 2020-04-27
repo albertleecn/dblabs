@@ -31,6 +31,9 @@
 
 see [labs/README.md](./labs/README.md)<br/>
 
+### Lab9: E/R Model
+[lab09 E/R Model](./labs/lab09DbSystemERmodelStudent.pdf)
+
 ### Lab8: Stored Procedure in SQL
 [lab08 Stored Procedure in SQL](./labs/lab08bDbSystemAdSQLProcedureFigStudent.pdf)
 
