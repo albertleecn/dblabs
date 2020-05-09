@@ -2,6 +2,9 @@
 
 ## database labs
 
+### Lab10: Filesystem To Database (1)
+[lab10 Import Filesystem To Database](./lab10fs2db1basicStudent.pdf)
+
 ### Lab9: E/R Model
 [lab09 E/R Model](./lab09DbSystemERmodelStudent.pdf)
 

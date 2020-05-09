@@ -6,7 +6,7 @@
 
 ## coursewares
 
-### Lecture 10~11
+### Lecture 10~12
 [E-R Model](./docs/lecture007DbSystemERModelR6.pdf)
 
 ### Lecture 9
@@ -30,6 +30,9 @@
 ## database labs
 
 see [labs/README.md](./labs/README.md)<br/>
+
+### Lab10: Filesystem To Database (1)
+[lab10 Import Filesystem To Database](./labs/lab10fs2db1basicStudent.pdf)
 
 ### Lab9: E/R Model
 [lab09 E/R Model](./labs/lab09DbSystemERmodelStudent.pdf)
