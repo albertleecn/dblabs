@@ -34,6 +34,9 @@
 
 see [labs/README.md](./labs/README.md)<br/>
 
+### Lab11: Filesystem To Database (11)
+[lab11 Import Filesystem To Database 2](./labs/lab10fs2db2middleStudent.pdf)
+
 ### Lab10: Filesystem To Database (1)
 [lab10 Import Filesystem To Database](./labs/lab10fs2db1basicStudent.pdf)
 
