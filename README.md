@@ -6,6 +6,9 @@
 
 ## coursewares
 
+### Lecture 13~14
+[Relational Database Design Theory](./docs/lecture008DbSystemBCNFR6.pdf)
+
 ### Lecture 10~12
 [E-R Model](./docs/lecture007DbSystemERModelR6.pdf)
 
